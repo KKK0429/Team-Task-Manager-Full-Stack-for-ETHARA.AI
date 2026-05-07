@@ -48,3 +48,49 @@ project-root/
 │── middleware/    # Authentication & Validation
 │── config/        # Database Configuration
 │── README.md
+
+⚙️ Installation & Setup
+1️⃣ Clone the Repository
+git clone https://github.com/your-username/project-management-app.git
+cd project-management-app
+
+2️⃣ Install Dependencies
+Backend
+cd server
+npm install
+Frontend
+cd client
+npm install
+
+▶️ Run the Application
+Start Backend
+npm start
+Start Frontend
+npm run dev
+
+🔐 User Roles
+Admin
+Create and manage projects
+Assign tasks to members
+Monitor project progress
+Manage team members
+Member
+View assigned projects
+Update task status
+Track task progress
+📊 Dashboard Functionalities
+Total Tasks Overview
+Completed vs Pending Tasks
+Overdue Task Tracking
+Project Progress Monitoring
+🔗 API Functionalities
+Authentication APIs
+Project Management APIs
+Task Management APIs
+User Role Verification APIs
+🎯 Learning Outcomes
+Full-stack web development
+REST API development
+Database schema design
+Authentication & authorization
+Team collaboration workflows
