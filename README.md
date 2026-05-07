@@ -42,7 +42,9 @@ Developed a full-stack project management web application with role-based access
 ```bash
 git clone https://github.com/your-username/project-management-app.git
 cd project-management-app
+```
 
+---
 
 ### 2️⃣ Install Dependencies
 
@@ -51,14 +53,27 @@ cd project-management-app
 ```bash
 cd server
 npm install
+```
 
+#### Frontend
 
+```bash
+cd client
+npm install
+```
 
+---
 
-```md
 ### 3️⃣ Run the Application
 
 #### Start Backend
 
 ```bash
 npm start
+```
+
+#### Start Frontend
+
+```bash
+npm run dev
+```
