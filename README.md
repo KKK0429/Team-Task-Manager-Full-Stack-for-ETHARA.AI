@@ -50,26 +50,26 @@ project-root/
 │── README.md
 
 ---
-###⚙️ Installation & Setup
-1️⃣ Clone the Repository
-git clone https://github.com/your-username/project-management-app.git
-cd project-management-app
+**###⚙️ Installation & Setup**
+-1️⃣ Clone the Repository
+-git clone https://github.com/your-username/project-management-app.git
+-cd project-management-app
 
-2️⃣ Install Dependencies
-Backend
-cd server
-npm install
-Frontend
-cd client
-npm install
+-2️⃣ Install Dependencies
+-Backend
+-cd server
+-npm install
+-Frontend
+-cd client
+-npm install
 
-▶️ Run the Application
-Start Backend
-npm start
-Start Frontend
-npm run dev
-
-🔐 User Roles
+-▶️ Run the Application
+-Start Backend
+-npm start
+-Start Frontend
+-npm run dev
+---
+**🔐 User Roles**
 Admin
 Create and manage projects
 Assign tasks to members
@@ -79,12 +79,12 @@ Member
 View assigned projects
 Update task status
 Track task progress
-📊 Dashboard Functionalities
+**📊 Dashboard Functionalities**
 Total Tasks Overview
 Completed vs Pending Tasks
 Overdue Task Tracking
 Project Progress Monitoring
-🔗 API Functionalities
+**🔗 API Functionalities**
 Authentication APIs
 Project Management APIs
 Task Management APIs
