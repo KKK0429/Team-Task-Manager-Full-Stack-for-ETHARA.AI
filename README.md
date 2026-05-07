@@ -44,7 +44,9 @@ cd project-management-app
 
 
 ### 2️⃣ Install Dependencies
-Backend
+
+#### Backend
+
 ```bash
 cd server
 npm install
@@ -54,10 +56,10 @@ Frontend
 cd client
 npm install
 
-### ▶️ Run the Application
-Start Backend
+```md
+### 3️⃣ Run the Application
+
+#### Start Backend
+
 ```bash
 npm start
-Start Frontend
-```bash
-npm run dev
