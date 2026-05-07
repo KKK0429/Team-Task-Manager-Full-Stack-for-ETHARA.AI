@@ -49,7 +49,8 @@ project-root/
 │── config/        # Database Configuration
 │── README.md
 
-⚙️ Installation & Setup
+---
+###⚙️ Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/project-management-app.git
 cd project-management-app
@@ -94,3 +95,4 @@ REST API development
 Database schema design
 Authentication & authorization
 Team collaboration workflows
+---
