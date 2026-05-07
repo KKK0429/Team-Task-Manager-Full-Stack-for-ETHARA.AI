@@ -34,22 +34,6 @@ Developed a full-stack project management web application with role-based access
 - Git & GitHub
 - VS code
 
----
-
-## 📂 Project Structure
-
-```bash
-project-root/
-│── client/        # Frontend
-│── server/        # Backend APIs
-│── models/        # Database Models
-│── routes/        # API Routes
-│── controllers/   # Business Logic
-│── middleware/    # Authentication & Validation
-│── config/        # Database Configuration
-│── README.md
-
----
 **###⚙️ Installation & Setup**
 -1️⃣ Clone the Repository
 -git clone https://github.com/your-username/project-management-app.git
@@ -95,4 +79,23 @@ REST API development
 Database schema design
 Authentication & authorization
 Team collaboration workflows
+---
+
+
+
+---
+
+## 📂 Project Structure
+
+```bash
+project-root/
+│── client/        # Frontend
+│── server/        # Backend APIs
+│── models/        # Database Models
+│── routes/        # API Routes
+│── controllers/   # Business Logic
+│── middleware/    # Authentication & Validation
+│── config/        # Database Configuration
+│── README.md
+
 ---
