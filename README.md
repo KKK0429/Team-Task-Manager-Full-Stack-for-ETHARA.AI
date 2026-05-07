@@ -1,2 +1,50 @@
 # Team-Task-Manager-Full-Stack-for-ETHARA.AI
 Developed a full-stack project management web application with role-based access control (Admin/Member). Implemented authentication, project and team management, task assignment, status tracking, and dashboards for monitoring progress and overdue tasks. Built secure REST APIs with database integration and validations.
+
+---
+
+## 🚀 Features
+
+- 🔐 User Authentication (Signup/Login)
+- 👥 Role-Based Access Control (Admin / Member)
+- 📁 Project Creation & Team Management
+- ✅ Task Creation, Assignment & Status Tracking
+- 📊 Dashboard for Task Monitoring & Overdue Tracking
+- 🔄 RESTful API Integration
+- 🗄️ Database Management with Proper Relationships
+- ✔️ Input Validations & Secure Access
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+- React.js
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- SQLite
+
+### Other Tools
+- JWT Authentication
+- REST APIs
+- Git & GitHub
+- VS code
+
+---
+
+## 📂 Project Structure
+
+```bash
+project-root/
+│── client/        # Frontend
+│── server/        # Backend APIs
+│── models/        # Database Models
+│── routes/        # API Routes
+│── controllers/   # Business Logic
+│── middleware/    # Authentication & Validation
+│── config/        # Database Configuration
+│── README.md
