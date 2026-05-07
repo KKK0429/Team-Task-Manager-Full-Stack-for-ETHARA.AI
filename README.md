@@ -34,3 +34,31 @@ Developed a full-stack project management web application with role-based access
 - Git & GitHub
 - VS code
 
+
+## ⚙️ Installation & Setup
+
+### 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/your-username/project-management-app.git
+cd project-management-app
+
+
+### 2️⃣ Install Dependencies
+
+#### Backend
+
+```bash
+cd server
+npm install
+
+
+
+
+```md
+### 3️⃣ Run the Application
+
+#### Start Backend
+
+```bash
+npm start
